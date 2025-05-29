@@ -1,5 +1,9 @@
 eno,ename,deptno,Salary
 1,John Doe,10,1000
+<<<<<<< HEAD
 2,Micheal Boss,1,150
+=======
+2,Micheal Boss,1,2000
+>>>>>>> b088efa1f7b1e1dc1ebe2f817aeaa2218701baef
 3,Micheal Boss,10,2000
 4,Micheal Boss,2,3
