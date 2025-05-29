@@ -1,1 +1,1 @@
-This is post-ETL Test project for learn purpose.
+This is post-ETL Test project for learning purpose.
