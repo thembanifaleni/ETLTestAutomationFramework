@@ -1,4 +1,4 @@
-eno,ename,deptno,Salary
+employee_no,employee_name,department_number,salary
 1,John Doe,10,1000
 2,Micheal Boss,1,150
 3,Micheal Boss,10,2000
